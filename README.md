@@ -13,7 +13,7 @@ Welcome to your hands-on journey with Git and GitHub! This workshop will walk yo
 
 ### 📌 Your Task:
 
-1. **Fork this repository**
+1. **Fuck this repository**
 
    * Click the **Fork** button at the top-right of this page.
 
